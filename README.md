@@ -7,3 +7,7 @@
 
 ## Notes
 1. _webpack.config.js_ - config file
+
+## Links
+1. https://dev.to/yadhus/what-is-entry-webpack-5-1cb5
+2. https://yadhus.medium.com/what-is-entry-webpack-5-33eed050dd4
